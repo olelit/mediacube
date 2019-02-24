@@ -1,0 +1,40 @@
+.sidebar{
+    background: #101010;
+    height: 100vh;
+    position: fixed;
+}
+
+.sidebar-head{
+    text-align: center;
+}
+
+.side-link{
+    padding-right: 10%;
+}
+
+.side-link a{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.card{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.avatar-psevdo{
+    background-color: #3377f3;
+}
+
+.fas{
+    font-size: 30px;
+    margin: 10px;
+}
+
+.side-link:hover{
+    background-color: #0e3950;
+}
+
+
